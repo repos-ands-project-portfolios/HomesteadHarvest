@@ -28,8 +28,7 @@ Planned:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/homesteados.git
-   cd homesteados
+   git clone (https://github.com/repos-ands-project-portfolios/HomesteadHarvest.git)
    ```
 2. Backend setup:
    - create and activate virtualenv  
